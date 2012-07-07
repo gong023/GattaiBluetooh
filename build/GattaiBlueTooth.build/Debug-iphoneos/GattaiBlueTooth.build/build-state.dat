@@ -1,0 +1,1608 @@
+TGattaiBlueTooth
+v7
+r0
+t318848938.888398
+cCheck dependencies
+cCpResource build/Debug-iphoneos/GattaiBlueTooth.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/Info.plist GattaiBlueTooth-Info.plist
+cCompileXIB /Users/wanna_be_170/Desktop/GattaiBlueTooth/MainWindow.xib
+cCompileXIB /Users/wanna_be_170/Desktop/GattaiBlueTooth/GattaiBlueToothViewController.xib
+cCompileXIB /Users/wanna_be_170/Desktop/GattaiBlueTooth/FlipsideViewController.xib
+cCopyPNGFile /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/mascotforHaikei2.png ../../Pictures/ちがぞう/mascotforHaikei2.png
+cCopyPNGFile /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/smallMascotIcon.png ../../Pictures/ちがぞう/smallMascotIcon.png
+cCpResource build/Debug-iphoneos/GattaiBlueTooth.app/mascot.jpg ../../Pictures/ちがぞう/mascot.jpg
+cCopyPNGFile /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/hozonhaikei.png ../../Pictures/ちがぞう/hozonhaikei.png
+cProcessPCH /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-clarwudoumwlkifipptyltwjcvxk/GattaiBlueTooth_Prefix.pch.gch GattaiBlueTooth_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-bpdvnukjtcrcmaaqwyslbkxbnhsd/GattaiBlueTooth_Prefix.pch.gch GattaiBlueTooth_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/main.o /Users/wanna_be_170/Desktop/GattaiBlueTooth/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueToothAppDelegate.o /Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueToothViewController.o /Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/FlipsideViewController.o /Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/../FlipsideViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueTooth normal armv6
+cCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/main.o /Users/wanna_be_170/Desktop/GattaiBlueTooth/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueToothAppDelegate.o /Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueToothViewController.o /Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/FlipsideViewController.o /Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/../FlipsideViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueTooth normal armv7
+cCreateUniversalBinary /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueTooth normal "armv6 armv7"
+cGenerateDSYMFile /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app.dSYM /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueTooth
+cProcessProductPackaging "/Users/wanna_be_170/Library/MobileDevice/Provisioning Profiles/839D31E9-0302-4DE3-89F5-E8937F6DB24D.mobileprovision" /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision
+cTouch /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth.xcent
+cCodeSign /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004C5A53C10000000000000110
+t1280988097
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+c000000004C06E99F00000000000001A7
+t1275521439
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+c000000004C06E99F00000000000001E5
+t1275521439
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004C005A70000000000001AD40
+t1275091568
+s109888
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004C0059B600000000002DE3B0
+t1275091382
+s3007408
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004C0059880000000000000A22
+t1275091336
+s2594
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C005A1C00000000003B4B70
+t1275091484
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004C005A1C00000000000004FE
+t1275091484
+s1278
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C005A45000000000036A640
+t1275091525
+s3581504
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C005A310000000000001355
+t1275091505
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/GameKit.framework/GameKit
+c000000004C006525000000000011E7D0
+t1275094309
+s1173456
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/GameKit.framework/Headers/GameKit.h
+c000000004C00651C0000000000000112
+t1275094300
+s274
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C00642C000000000000098F
+t1275094060
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0064A60000000002703220
+t1275094182
+s40907296
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004C68BB8400000000001D26C0
+t1281932164
+s1910464
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004C5A51EA000000000039EF90
+t1280987626
+s3796880
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004C5A51980000000000000A23
+t1280987544
+s2595
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004C5A4FF800000000000004FE
+t1280987128
+s1278
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/GameKit.framework/GameKit
+c000000004C68BC830000000000231E60
+t1281932419
+s2301536
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/GameKit.framework/Headers/GameKit.h
+c000000004C68BC5E000000000000030F
+t1281932382
+s783
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC11C42000000000020BF30
+t1287724098
+s2146096
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC10EF400000000003B8CB0
+t1287720692
+s3902640
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC10EB60000000000000A23
+t1287720630
+s2595
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004CC10DCA00000000000004FE
+t1287720394
+s1278
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/GameKit.framework/GameKit
+c000000004CC129A40000000000289BB0
+t1287727524
+s2661296
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/GameKit.framework/Headers/GameKit.h
+c000000004CC129850000000000000348
+t1287727493
+s840
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/../../Pictures/ちがぞう/hozonhaikei.png
+c000000004D012F690000000000000682
+t1291923305
+s1666
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/../../Pictures/ちがぞう/mascot.jpg
+c000000004CFFB9100000000000003953
+t1291827472
+s14675
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/../../Pictures/ちがぞう/mascotforHaikei2.png
+c000000004CFFC6A50000000000002EC9
+t1291830949
+s11977
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/../../Pictures/ちがぞう/smallMascotIcon.png
+c000000004CFFCC78000000000000131B
+t1291832440
+s4891
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/../FlipsideViewController.h
+c000000004CFF4E7200000000000002A9
+t1291800178
+s681
+i<UIKit/UIKit.h>
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/../FlipsideViewController.m
+c000000004CFF50220000000000000BE2
+t1291800610
+s3042
+i"FlipsideViewController.h"
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.h
+c000000004D2DCF0200000000000003FF
+t1294847746
+s1023
+i<UIKit/UIKit.h>
+i<GameKit/GameKit.h>
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m
+c000000004D2DCEE60000000000000D3D
+t1294847718
+s3389
+i"GattaiBlueToothAppDelegate.h"
+i"GattaiBlueToothViewController.h"
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothViewController.h
+c000000004D3AF7320000000000000629
+t1295710002
+s1577
+i<UIKit/UIKit.h>
+i<GameKit/GameKit.h>
+i<CoreGraphics/CoreGraphics.h>
+i"FlipsideViewController.h"
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothViewController.m
+c000000004D4EA49D0000000000004F52
+t1296999581
+s20306
+i"GattaiBlueToothViewController.h"
+i"FlipsideViewController.h"
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/FlipsideViewController.h
+c000000004CFF4E7200000000000002A9
+t1291800178
+s681
+i<UIKit/UIKit.h>
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/FlipsideViewController.xib
+c000000004D25689900000000000074A2
+t1294297241
+s29858
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/GattaiBlueToothViewController.xib
+c000000004D4EA318000000000000B2F9
+t1296999192
+s45817
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/GattaiBlueTooth_Prefix.pch
+c000000004CB2CFFF00000000000000C7
+t1286787071
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/MainWindow.xib
+c000000004CB2CFFF0000000000004E89
+t1286787071
+s20105
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app
+t1297156138
+s816
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app.dSYM
+t1296999582
+s102
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/FlipsideViewController.nib
+t1294847766
+s4598
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueTooth
+t1296999582
+s123968
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueToothViewController.nib
+t1296999287
+s3771
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/Info.plist
+t1295593030
+s848
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/MainWindow.nib
+t1294847766
+s1697
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/PkgInfo
+t1295593030
+s8
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/ResourceRules.plist
+t1294847765
+s485
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision
+t1297156022
+s7298
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/hozonhaikei.png
+t1291923956
+s1262
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/mascot.jpg
+t1291833528
+s14675
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/mascotforHaikei2.png
+t1291831533
+s12455
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/smallMascotIcon.png
+t1291832575
+s4992
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth.xcent
+t1295593034
+s428
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/FlipsideViewController.o
+t1295593033
+s44940
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueTooth
+t1296999582
+s52380
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueTooth.LinkFileList
+c000000004D392E460000000000000265
+t1295593030
+s613
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueToothAppDelegate.o
+t1295710312
+s55048
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueToothViewController.o
+t1296999582
+s104096
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/main.o
+t1295593033
+s6456
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/FlipsideViewController.o
+t1295593033
+s44816
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueTooth
+t1296999582
+s52356
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueTooth.LinkFileList
+c000000004D392E460000000000000265
+t1295593030
+s613
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueToothAppDelegate.o
+t1295710313
+s54920
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueToothViewController.o
+t1296999582
+s102564
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/main.o
+t1295593033
+s6440
+
+N/Users/wanna_be_170/Desktop/GattaiBlueTooth/main.m
+c000000004CB2CFFF0000000000000170
+t1286787071
+s368
+i<UIKit/UIKit.h>
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Desktop/アプリ用/アイコン等決定版/haikei (1).jpg
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/Keynote用/Salary-manx.jpg
+c000000004CA1B998000000000000822B
+t1285667224
+s33323
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/Keynote用/道場.jpg
+c000000004CA36FBD000000000002C185
+t1285779389
+s180613
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/v.metronome Images/アイコン等決定版/haikei (1).jpg
+c000000004C7BCDEF0000000000006E24
+t1283182063
+s28196
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/ちがぞう/Orange.png
+c000000004CFFBF59000000000000068A
+t1291829081
+s1674
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/ちがぞう/apliTest1.jpeg
+c000000004CFFA92100000000000007A2
+t1291823393
+s1954
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/ちがぞう/apliTest2.jpeg
+c000000004CFFAB7000000000000005E9
+t1291823984
+s1513
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/ちがぞう/freeFrame2.png
+c000000004CFFB3A5000000000000B3B0
+t1291826085
+s46000
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/ちがぞう/hozonhaikei.png
+c000000004D012F690000000000000682
+t1291923305
+s1666
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/ちがぞう/mascot.jpg
+c000000004CFFB9100000000000003953
+t1291827472
+s14675
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/ちがぞう/mascotforHaikei.jpg
+c000000004CFFBCD500000000000046D0
+t1291828437
+s18128
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/ちがぞう/mascotforHaikei2.png
+c000000004CFFC6A50000000000002EC9
+t1291830949
+s11977
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/ちがぞう/smallMascotIcon.png
+c000000004CFFCC78000000000000131B
+t1291832440
+s4891
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m
+c000000004CFCA6670000000000000597
+t1291626087
+s1431
+i"FlipsideView.h"
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideViewController.m
+c000000004CFF50220000000000000BE2
+t1291800610
+s3042
+i"FlipsideViewController.h"
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.h
+c000000004D2DCF0200000000000003FF
+t1294847746
+s1023
+i<UIKit/UIKit.h>
+i<GameKit/GameKit.h>
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m
+c000000004D2DCEE60000000000000D3D
+t1294847718
+s3389
+i"GattaiBlueToothAppDelegate.h"
+i"GattaiBlueToothViewController.h"
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothViewController.h
+c000000004D01427B00000000000005BD
+t1291928187
+s1469
+i<UIKit/UIKit.h>
+i<GameKit/GameKit.h>
+i<CoreGraphics/CoreGraphics.h>
+i"FlipsideViewController.h"
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothViewController.m
+c000000004D2DCEE60000000000004AE7
+t1294847718
+s19175
+i"GattaiBlueToothViewController.h"
+i"FlipsideViewController.h"
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideView.h
+c000000004CFCAA110000000000000230
+t1291627025
+s560
+i<UIKit/UIKit.h>
+i"GattaiBluetoothViewcontroller.h"
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideView.m
+c000000004CFCA6670000000000000597
+t1291626087
+s1431
+i"FlipsideView.h"
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideView.xib
+c000000004CFCA667000000000000185F
+t1291626087
+s6239
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.h
+c000000004CFF4E7200000000000002A9
+t1291800178
+s681
+i<UIKit/UIKit.h>
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m
+c000000004CFCAB6300000000000005B5
+t1291627363
+s1461
+i"FlipsideViewController.h"
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.xib
+c000000004D25689900000000000074A2
+t1294297241
+s29858
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/GattaiBlueToothViewController.xib
+c000000004D033AE9000000000000B1A7
+t1292057321
+s45479
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/GattaiBlueTooth_Prefix.pch
+c000000004CB2CFFF00000000000000C7
+t1286787071
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/MainWindow.xib
+c000000004CB2CFFF0000000000004E89
+t1286787071
+s20105
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app
+t1294847768
+s816
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app.dSYM
+t1294847767
+s102
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/FlipsideView.nib
+t1291626417
+s1231
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/FlipsideViewController.nib
+t1294847766
+s4598
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueTooth
+t1294847767
+s123088
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueToothViewController.nib
+t1294847766
+s6702
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/Info.plist
+t1294847765
+s789
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/MainWindow.nib
+t1294847766
+s1697
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/Orange.png
+t1291831533
+s1260
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/PkgInfo
+t1294847765
+s8
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/ResourceRules.plist
+t1294847765
+s485
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/Salary-manx.jpg
+t1286980172
+s33323
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/apliTest1.jpeg
+t2
+s0
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/apliTest2.jpeg
+t1291824112
+s1513
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision
+t1289291857
+s7298
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/freeFrame2.png
+t1291826227
+s48253
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/haikei (1).jpg
+t1291826474
+s28196
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/hozonhaikei.png
+t1291923956
+s1262
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/mascot.jpg
+t1291833528
+s14675
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/mascotforHaikei.jpg
+t1291831532
+s18128
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/mascotforHaikei2.png
+t1291831533
+s12455
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/smallMascotIcon.png
+t1291832575
+s4992
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/道場.jpg
+t1286975645
+s180613
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth.xcent
+t1294847767
+s428
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/FlipsideView.o
+t2
+s0
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/FlipsideViewController.o
+t1294847767
+s41916
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueTooth
+t1294847767
+s51500
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueTooth.LinkFileList
+c000000004CFCABD7000000000000026D
+t1291627479
+s621
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueToothAppDelegate.o
+t1294847767
+s51984
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueToothViewController.o
+t1294847767
+s96552
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/main.o
+t1294847767
+s6460
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/FlipsideView.o
+t2
+s0
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/FlipsideViewController.o
+t1294847767
+s41796
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueTooth
+t1294847767
+s51476
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueTooth.LinkFileList
+c000000004CFCABD7000000000000026D
+t1291627479
+s621
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueToothAppDelegate.o
+t1294847767
+s51856
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueToothViewController.o
+t1294847767
+s95152
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/main.o
+t1294847767
+s6444
+
+N/Users/wanna_be_170/Documents/GattaiBlueTooth/main.m
+c000000004CB2CFFF0000000000000170
+t1286787071
+s368
+i<UIKit/UIKit.h>
+
+N/Users/wanna_be_170/Library/MobileDevice/Provisioning Profiles/0874F8D1-3D5D-4392-A140-944D43608477.mobileprovision
+c000000004CABA41F0000000000001C46
+t1286317087
+s7238
+
+N/Users/wanna_be_170/Library/MobileDevice/Provisioning Profiles/34DA3C27-E49E-46C5-9FF6-9168AE54A33C.mobileprovision
+c000000004CD7C0FF0000000000001C07
+t1289208063
+s7175
+
+N/Users/wanna_be_170/Library/MobileDevice/Provisioning Profiles/5B6D3A59-F711-46BC-9DB3-F7633B8B7B5A.mobileprovision
+c000000004CD907760000000000001C82
+t1289291638
+s7298
+
+N/Users/wanna_be_170/Library/MobileDevice/Provisioning Profiles/839D31E9-0302-4DE3-89F5-E8937F6DB24D.mobileprovision
+c000000004D51078A0000000000001C82
+t1297155978
+s7298
+
+N/Users/wanna_be_170/Library/MobileDevice/Provisioning Profiles/A097588A-E72C-4FEC-9FCB-E533618ADF20.mobileprovision
+c000000004D2FC2890000000000001B7A
+t1294975625
+s7034
+
+N/var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-bpdvnukjtcrcmaaqwyslbkxbnhsd/GattaiBlueTooth_Prefix.pch.gch
+t1295593032
+s10446552
+
+N/var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-clarwudoumwlkifipptyltwjcvxk/GattaiBlueTooth_Prefix.pch.gch
+t1295593032
+s9983704
+
+N/var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-cwwibpxsfaakjubmrektdkplywxz/GattaiBlueTooth_Prefix.pch.gch
+t1286787214
+s10294832
+
+N/var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-dutuviujixsoqqhfpylteoupuhsr/GattaiBlueTooth_Prefix.pch.gch
+t1286787214
+s9831984
+
+N/var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-fjdzjwwnlthzgtdlinbflvseuzee/GattaiBlueTooth_Prefix.pch.gch
+t1286803722
+s9421460
+
+N/var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-gduagfwlpcnglvfaatworokaofdc/GattaiBlueTooth_Prefix.pch.gch
+t1286803722
+s8958612
+
+NGattaiBlueTooth-Info.plist
+c000000004D2E71A4000000000000038A
+t1294889380
+s906
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318848938#318848938#0(0"0(0#1#0"8622251200#0"0#
+
+CCodeSign /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app
+s318848938.650079
+e318848938.888341
+r1
+xCodeSign
+x/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app
+o/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app: replacing existing signature
+lSLF07#2@49"CodeSign build/Debug-iphoneos/GattaiBlueTooth.app318848938#318848938#0(115"/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app: replacing existing signature0(0#0#84"/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app29273878621126700#707"    cd /Users/wanna_be_170/Desktop/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: 翔 ogihara (W78EH3Q5TY)" --resource-rules=/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/ResourceRules.plist --entitlements /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth.xcent /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app0#
+
+CCodeSign /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app
+s316540567.907387
+e316540568.746784
+r1
+xCodeSign
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app
+lSLF07#2@49"CodeSign build/Debug-iphoneos/GattaiBlueTooth.app316540567#316540568#0(0"0(0#0#86"/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app8619987680#715"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: 翔 ogihara (W78EH3Q5TY)" --resource-rules=/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/ResourceRules.plist --entitlements /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth.xcent /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app0#
+
+CCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/FlipsideView.o /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s313319826.120300
+e313319826.236836
+r0
+xCompileC
+xbuild/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/FlipsideView.o
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h:10,
+o                 from /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m:9:
+o/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothViewController.h:16: error: cannot find protocol declaration for 'FlipsideViewDelegate'
+oIn file included from /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m:9:
+o/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h:16: error: cannot find protocol declaration for 'FlipsideViewControllerDelegate'
+o/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h:25: error: expected ')' before 'FlipsideViewController'
+o/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m:58: warning: property 'delegate' requires method '-delegate' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m:58: warning: property 'delegate' requires the method 'setDelegate:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m:58: warning: incomplete implementation of class 'FlipsideView'
+o/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m:58: warning: method definition for '-done:' not found
+lSLF07#2@79"Compile /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m313319826#313319826#0(1418"In file included from /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h:10,                 from /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m:9:/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothViewController.h:16: error: cannot find protocol declaration for 'FlipsideViewDelegate'In file included from /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m:9:/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h:16: error: cannot find protocol declaration for 'FlipsideViewControllerDelegate'/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h:25: error: expected ')' before 'FlipsideViewController'/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m:58: warning: property 'delegate' requires method '-delegate' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m:58: warning: property 'delegate' requires the method 'setDelegate:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m:58: warning: incomplete implementation of class 'FlipsideView'/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m:58: warning: method definition for '-done:' not found7(4@59"Cannot find protocol declaration for 'FlipsideViewDelegate'313319826#195#157#3(7@93"In file included from /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m313319826#18446744073709551615#0#0(6@71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m313318887#9#0#9#0#0"0(7@93"In file included from /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h313319826#18446744073709551615#0#0(6@71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h313319825#10#0#10#0#0"0(13@148"Cannot find protocol declaration for 'FlipsideViewDelegate' in /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothViewController.h313319826#18446744073709551615#0#0(6@85"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothViewController.h313319825#16#0#16#0#0"0(6@85"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothViewController.h313319825#16#0#16#0#0"0(4@69"Cannot find protocol declaration for 'FlipsideViewControllerDelegate'313319826#449#153#2(7@93"In file included from /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m313319826#18446744073709551615#0#0(6@71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m313318887#9#0#9#0#0"0(13@144"Cannot find protocol declaration for 'FlipsideViewControllerDelegate' in /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h313319826#18446744073709551615#0#0(6@71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h313319825#16#0#16#0#0"0(6@71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h313319825#16#0#16#0#0"0(4@44"Expected ')' before 'FlipsideViewController'313319826#602#128#2(7@93"In file included from /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m313319826#18446744073709551615#0#0(6@71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m313318887#9#0#9#0#0"0(13@119"Expected ')' before 'FlipsideViewController' in /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h313319826#18446744073709551615#0#0(6@71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h313319825#25#0#25#0#0"0(6@71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h313319825#25#0#25#0#19"expected * before *0(22@124"Property 'delegate' requires method '-delegate' to be defined - use @synthesize, @dynamic or provide a method implementation313319826#730#210#0(6@71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m313318887#58#0#58#0#0"0(22@131"Property 'delegate' requires the method 'setDelegate:' to be defined - use @synthesize, @dynamic or provide a method implementation313319826#940#217#0(6@71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m313318887#58#0#58#0#0"0(22@49"Incomplete implementation of class 'FlipsideView'313319826#1157#135#0(6@71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m313318887#58#0#58#0#38"incomplete implementation of class '*'0(22@40"Method definition for '-done:' not found313319826#1292#126#0(6@71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m313318887#58#0#58#0#35"method definition for '*' not found0(0#0#71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m8637764160#1988"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv6 -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -include /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-dutuviujixsoqqhfpylteoupuhsr/GattaiBlueTooth_Prefix.pch -c /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m -o /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/FlipsideView.o1#
+
+CCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/FlipsideView.o /Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/FlipsideViewController.o /Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/../FlipsideViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317285833.116794
+e317285833.266728
+r1
+xCompileC
+xbuild/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/FlipsideViewController.o
+x/Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/../FlipsideViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/../FlipsideViewController.m317285833#317285833#0(0"0(0#0#79"/Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/../FlipsideViewController.m8617806112#1986"    cd /Users/wanna_be_170/Desktop/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv6 -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -include /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-clarwudoumwlkifipptyltwjcvxk/GattaiBlueTooth_Prefix.pch -c /Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/../FlipsideViewController.m -o /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/FlipsideViewController.o0#
+
+CCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/FlipsideViewController.o /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316540567.128694
+e316540567.250006
+r1
+xCompileC
+xbuild/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/FlipsideViewController.o
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideViewController.m316540567#316540567#0(0"0(0#0#81"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideViewController.m8620057120#2008"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv6 -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -include /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-dutuviujixsoqqhfpylteoupuhsr/GattaiBlueTooth_Prefix.pch -c /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideViewController.m -o /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/FlipsideViewController.o0#
+
+CCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/FlipsideViewController.o /Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s313320392.279616
+e313320392.354789
+r1
+xCompileC
+xbuild/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/FlipsideViewController.o
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m:58: warning: property 'delegate' requires method '-delegate' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m:58: warning: property 'delegate' requires the method 'setDelegate:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m:58: warning: incomplete implementation of class 'FlipsideViewController'
+o/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m:58: warning: method definition for '-done:' not found
+lSLF07#2@78"Compile /Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m313320392#313320392#0(694"/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m:58: warning: property 'delegate' requires method '-delegate' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m:58: warning: property 'delegate' requires the method 'setDelegate:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m:58: warning: incomplete implementation of class 'FlipsideViewController'/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m:58: warning: method definition for '-done:' not found4(22@124"Property 'delegate' requires method '-delegate' to be defined - use @synthesize, @dynamic or provide a method implementation313320392#0#209#0(6@70"/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m313320163#58#0#58#0#0"0(22@131"Property 'delegate' requires the method 'setDelegate:' to be defined - use @synthesize, @dynamic or provide a method implementation313320392#209#216#0(6@70"/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m313320163#58#0#58#0#0"0(22@59"Incomplete implementation of class 'FlipsideViewController'313320392#425#144#0(6@70"/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m313320163#58#0#58#0#38"incomplete implementation of class '*'0(22@40"Method definition for '-done:' not found313320392#569#125#0(6@70"/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m313320163#58#0#58#0#35"method definition for '*' not found0(0#0#70"/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m8634650240#1997"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv6 -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -include /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-dutuviujixsoqqhfpylteoupuhsr/GattaiBlueTooth_Prefix.pch -c /Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m -o /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/FlipsideViewController.o0#
+
+CCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueToothAppDelegate.o /Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317403112.766104
+e317403112.966098
+r1
+xCompileC
+xbuild/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueToothAppDelegate.o
+x/Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m317403112#317403112#0(0"0(0#0#80"/Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m7599087897718059008#1991"    cd /Users/wanna_be_170/Desktop/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv6 -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -include /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-clarwudoumwlkifipptyltwjcvxk/GattaiBlueTooth_Prefix.pch -c /Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m -o /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueToothAppDelegate.o0#
+
+CCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueToothAppDelegate.o /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316540567.005057
+e316540567.128586
+r1
+xCompileC
+xbuild/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueToothAppDelegate.o
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m316540567#316540567#0(0"0(0#0#82"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m8622416160#2013"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv6 -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -include /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-dutuviujixsoqqhfpylteoupuhsr/GattaiBlueTooth_Prefix.pch -c /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m -o /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueToothAppDelegate.o0#
+
+CCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueToothViewController.o /Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318692381.870575
+e318692382.384355
+r1
+xCompileC
+xbuild/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueToothViewController.o
+x/Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothViewController.m318692381#318692382#0(0"0(0#0#83"/Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothViewController.m8640920416#1997"    cd /Users/wanna_be_170/Desktop/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv6 -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -include /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-clarwudoumwlkifipptyltwjcvxk/GattaiBlueTooth_Prefix.pch -c /Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothViewController.m -o /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueToothViewController.o0#
+
+CCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueToothViewController.o /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316540567.057593
+e316540567.294685
+r1
+xCompileC
+xbuild/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueToothViewController.o
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothViewController.m316540567#316540567#0(0"0(0#0#85"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothViewController.m8621159296#2019"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv6 -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -include /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-dutuviujixsoqqhfpylteoupuhsr/GattaiBlueTooth_Prefix.pch -c /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothViewController.m -o /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueToothViewController.o0#
+
+CCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/main.o /Users/wanna_be_170/Desktop/GattaiBlueTooth/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317285832.828351
+e317285833.096564
+r1
+xCompileC
+xbuild/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/main.o
+x/Users/wanna_be_170/Desktop/GattaiBlueTooth/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/wanna_be_170/Desktop/GattaiBlueTooth/main.m317285832#317285833#0(0"0(0#0#50"/Users/wanna_be_170/Desktop/GattaiBlueTooth/main.m8648231808#1939"    cd /Users/wanna_be_170/Desktop/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv6 -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -include /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-clarwudoumwlkifipptyltwjcvxk/GattaiBlueTooth_Prefix.pch -c /Users/wanna_be_170/Desktop/GattaiBlueTooth/main.m -o /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/main.o /Users/wanna_be_170/Documents/GattaiBlueTooth/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316540567.003918
+e316540567.057485
+r1
+xCompileC
+xbuild/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/main.o
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/wanna_be_170/Documents/GattaiBlueTooth/main.m316540567#316540567#0(0"0(0#0#52"/Users/wanna_be_170/Documents/GattaiBlueTooth/main.m8619003360#1961"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv6 -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -include /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-dutuviujixsoqqhfpylteoupuhsr/GattaiBlueTooth_Prefix.pch -c /Users/wanna_be_170/Documents/GattaiBlueTooth/main.m -o /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/FlipsideView.o /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s313319826.245876
+e313319826.311646
+r0
+xCompileC
+xbuild/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/FlipsideView.o
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h:10,
+o                 from /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m:9:
+o/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothViewController.h:16: error: cannot find protocol declaration for 'FlipsideViewDelegate'
+oIn file included from /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m:9:
+o/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h:16: error: cannot find protocol declaration for 'FlipsideViewControllerDelegate'
+o/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h:25: error: expected ')' before 'FlipsideViewController'
+o/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m:58: warning: property 'delegate' requires method '-delegate' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m:58: warning: property 'delegate' requires the method 'setDelegate:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m:58: warning: incomplete implementation of class 'FlipsideView'
+o/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m:58: warning: method definition for '-done:' not found
+lSLF07#2@79"Compile /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m313319826#313319826#0(1418"In file included from /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h:10,                 from /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m:9:/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothViewController.h:16: error: cannot find protocol declaration for 'FlipsideViewDelegate'In file included from /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m:9:/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h:16: error: cannot find protocol declaration for 'FlipsideViewControllerDelegate'/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h:25: error: expected ')' before 'FlipsideViewController'/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m:58: warning: property 'delegate' requires method '-delegate' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m:58: warning: property 'delegate' requires the method 'setDelegate:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m:58: warning: incomplete implementation of class 'FlipsideView'/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m:58: warning: method definition for '-done:' not found7(4@59"Cannot find protocol declaration for 'FlipsideViewDelegate'313319826#195#157#3(7@93"In file included from /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m313319826#18446744073709551615#0#0(6@71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m313318887#9#0#9#0#0"0(7@93"In file included from /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h313319826#18446744073709551615#0#0(6@71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h313319825#10#0#10#0#0"0(13@148"Cannot find protocol declaration for 'FlipsideViewDelegate' in /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothViewController.h313319826#18446744073709551615#0#0(6@85"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothViewController.h313319825#16#0#16#0#0"0(6@85"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothViewController.h313319825#16#0#16#0#0"0(4@69"Cannot find protocol declaration for 'FlipsideViewControllerDelegate'313319826#449#153#2(7@93"In file included from /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m313319826#18446744073709551615#0#0(6@71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m313318887#9#0#9#0#0"0(13@144"Cannot find protocol declaration for 'FlipsideViewControllerDelegate' in /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h313319826#18446744073709551615#0#0(6@71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h313319825#16#0#16#0#0"0(6@71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h313319825#16#0#16#0#0"0(4@44"Expected ')' before 'FlipsideViewController'313319826#602#128#2(7@93"In file included from /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m313319826#18446744073709551615#0#0(6@71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m313318887#9#0#9#0#0"0(13@119"Expected ')' before 'FlipsideViewController' in /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h313319826#18446744073709551615#0#0(6@71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h313319825#25#0#25#0#0"0(6@71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.h313319825#25#0#25#0#19"expected * before *0(22@124"Property 'delegate' requires method '-delegate' to be defined - use @synthesize, @dynamic or provide a method implementation313319826#730#210#0(6@71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m313318887#58#0#58#0#0"0(22@131"Property 'delegate' requires the method 'setDelegate:' to be defined - use @synthesize, @dynamic or provide a method implementation313319826#940#217#0(6@71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m313318887#58#0#58#0#0"0(22@49"Incomplete implementation of class 'FlipsideView'313319826#1157#135#0(6@71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m313318887#58#0#58#0#38"incomplete implementation of class '*'0(22@40"Method definition for '-done:' not found313319826#1292#126#0(6@71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m313318887#58#0#58#0#35"method definition for '*' not found0(0#0#71"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m8637768192#1988"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv7 -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -include /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-cwwibpxsfaakjubmrektdkplywxz/GattaiBlueTooth_Prefix.pch -c /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideView.m -o /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/FlipsideView.o1#
+
+CCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/FlipsideView.o /Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/FlipsideViewController.o /Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/../FlipsideViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s317285833.834516
+e317285833.984852
+r1
+xCompileC
+xbuild/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/FlipsideViewController.o
+x/Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/../FlipsideViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/../FlipsideViewController.m317285833#317285833#0(0"0(0#0#79"/Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/../FlipsideViewController.m8649089184#1986"    cd /Users/wanna_be_170/Desktop/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv7 -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -include /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-bpdvnukjtcrcmaaqwyslbkxbnhsd/GattaiBlueTooth_Prefix.pch -c /Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/../FlipsideViewController.m -o /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/FlipsideViewController.o0#
+
+CCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/FlipsideViewController.o /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316540567.470877
+e316540567.558417
+r1
+xCompileC
+xbuild/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/FlipsideViewController.o
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideViewController.m316540567#316540567#0(0"0(0#0#81"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideViewController.m8621181760#2008"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv7 -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -include /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-cwwibpxsfaakjubmrektdkplywxz/GattaiBlueTooth_Prefix.pch -c /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/../FlipsideViewController.m -o /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/FlipsideViewController.o0#
+
+CCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/FlipsideViewController.o /Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s313320392.655283
+e313320392.736400
+r1
+xCompileC
+xbuild/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/FlipsideViewController.o
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m:58: warning: property 'delegate' requires method '-delegate' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m:58: warning: property 'delegate' requires the method 'setDelegate:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m:58: warning: incomplete implementation of class 'FlipsideViewController'
+o/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m:58: warning: method definition for '-done:' not found
+lSLF07#2@78"Compile /Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m313320392#313320392#0(694"/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m:58: warning: property 'delegate' requires method '-delegate' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m:58: warning: property 'delegate' requires the method 'setDelegate:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m:58: warning: incomplete implementation of class 'FlipsideViewController'/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m:58: warning: method definition for '-done:' not found4(22@124"Property 'delegate' requires method '-delegate' to be defined - use @synthesize, @dynamic or provide a method implementation313320392#0#209#0(6@70"/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m313320163#58#0#58#0#0"0(22@131"Property 'delegate' requires the method 'setDelegate:' to be defined - use @synthesize, @dynamic or provide a method implementation313320392#209#216#0(6@70"/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m313320163#58#0#58#0#0"0(22@59"Incomplete implementation of class 'FlipsideViewController'313320392#425#144#0(6@70"/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m313320163#58#0#58#0#38"incomplete implementation of class '*'0(22@40"Method definition for '-done:' not found313320392#569#125#0(6@70"/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m313320163#58#0#58#0#35"method definition for '*' not found0(0#0#70"/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m8624784992#1997"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv7 -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -include /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-cwwibpxsfaakjubmrektdkplywxz/GattaiBlueTooth_Prefix.pch -c /Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.m -o /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/FlipsideViewController.o0#
+
+CCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueToothAppDelegate.o /Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s317403112.966384
+e317403113.114145
+r1
+xCompileC
+xbuild/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueToothAppDelegate.o
+x/Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m317403112#317403113#0(0"0(0#0#80"/Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m8619242336#1991"    cd /Users/wanna_be_170/Desktop/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv7 -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -include /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-bpdvnukjtcrcmaaqwyslbkxbnhsd/GattaiBlueTooth_Prefix.pch -c /Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m -o /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueToothAppDelegate.o0#
+
+CCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueToothAppDelegate.o /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316540567.325863
+e316540567.470704
+r1
+xCompileC
+xbuild/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueToothAppDelegate.o
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m316540567#316540567#0(0"0(0#0#82"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m8619581408#2013"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv7 -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -include /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-cwwibpxsfaakjubmrektdkplywxz/GattaiBlueTooth_Prefix.pch -c /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m -o /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueToothAppDelegate.o0#
+
+CCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueToothViewController.o /Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318692381.905557
+e318692382.352445
+r1
+xCompileC
+xbuild/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueToothViewController.o
+x/Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothViewController.m318692381#318692382#0(0"0(0#0#83"/Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothViewController.m8641820032#1997"    cd /Users/wanna_be_170/Desktop/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv7 -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -include /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-bpdvnukjtcrcmaaqwyslbkxbnhsd/GattaiBlueTooth_Prefix.pch -c /Users/wanna_be_170/Desktop/GattaiBlueTooth/Classes/GattaiBlueToothViewController.m -o /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueToothViewController.o0#
+
+CCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueToothViewController.o /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316540567.409619
+e316540567.618218
+r1
+xCompileC
+xbuild/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueToothViewController.o
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothViewController.m316540567#316540567#0(0"0(0#0#85"/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothViewController.m8620765216#2019"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv7 -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -include /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-cwwibpxsfaakjubmrektdkplywxz/GattaiBlueTooth_Prefix.pch -c /Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothViewController.m -o /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueToothViewController.o0#
+
+CCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/main.o /Users/wanna_be_170/Desktop/GattaiBlueTooth/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s317285833.266836
+e317285833.360830
+r1
+xCompileC
+xbuild/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/main.o
+x/Users/wanna_be_170/Desktop/GattaiBlueTooth/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/wanna_be_170/Desktop/GattaiBlueTooth/main.m317285833#317285833#0(0"0(0#0#50"/Users/wanna_be_170/Desktop/GattaiBlueTooth/main.m8603797824#1939"    cd /Users/wanna_be_170/Desktop/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv7 -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -include /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-bpdvnukjtcrcmaaqwyslbkxbnhsd/GattaiBlueTooth_Prefix.pch -c /Users/wanna_be_170/Desktop/GattaiBlueTooth/main.m -o /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/main.o0#
+
+CCompileC build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/main.o /Users/wanna_be_170/Documents/GattaiBlueTooth/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316540567.250203
+e316540567.325739
+r1
+xCompileC
+xbuild/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/main.o
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/wanna_be_170/Documents/GattaiBlueTooth/main.m316540567#316540567#0(0"0(0#0#52"/Users/wanna_be_170/Documents/GattaiBlueTooth/main.m8621068224#1961"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv7 -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -include /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-cwwibpxsfaakjubmrektdkplywxz/GattaiBlueTooth_Prefix.pch -c /Users/wanna_be_170/Documents/GattaiBlueTooth/main.m -o /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/wanna_be_170/Desktop/GattaiBlueTooth/FlipsideViewController.xib
+r0
+
+CCompileXIB /Users/wanna_be_170/Desktop/GattaiBlueTooth/GattaiBlueToothViewController.xib
+s318692086.345581
+e318692088.005404
+r1
+xCompileXIB
+x/Users/wanna_be_170/Desktop/GattaiBlueTooth/GattaiBlueToothViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@44"CompileXIB GattaiBlueToothViewController.xib318692086#318692088#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#77"/Users/wanna_be_170/Desktop/GattaiBlueTooth/GattaiBlueToothViewController.xib8639031712#603"    cd /Users/wanna_be_170/Desktop/GattaiBlueTooth    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueToothViewController.nib /Users/wanna_be_170/Desktop/GattaiBlueTooth/GattaiBlueToothViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/wanna_be_170/Desktop/GattaiBlueTooth/MainWindow.xib
+r0
+
+CCompileXIB /Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideView.xib
+s313319215.048142
+e313319217.104869
+r1
+xCompileXIB
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideView.xib
+lSLF07#2@27"CompileXIB FlipsideView.xib313319215#313319217#0(0"0(0#0#62"/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideView.xib8634780352#575"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/FlipsideView.nib /Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.xib
+s316540566.414208
+e316540567.003591
+r1
+xCompileXIB
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@37"CompileXIB FlipsideViewController.xib316540566#316540567#0(1428"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#72"/Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.xib8619257088#595"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/FlipsideViewController.nib /Users/wanna_be_170/Documents/GattaiBlueTooth/FlipsideViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/wanna_be_170/Documents/GattaiBlueTooth/GattaiBlueToothViewController.xib
+s316540565.778810
+e316540566.588467
+r1
+xCompileXIB
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/GattaiBlueToothViewController.xib
+lSLF07#2@44"CompileXIB GattaiBlueToothViewController.xib316540565#316540566#0(0"0(0#0#79"/Users/wanna_be_170/Documents/GattaiBlueTooth/GattaiBlueToothViewController.xib8620027552#609"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueToothViewController.nib /Users/wanna_be_170/Documents/GattaiBlueTooth/GattaiBlueToothViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/wanna_be_170/Documents/GattaiBlueTooth/MainWindow.xib
+s316540565.778103
+e316540566.414094
+r1
+xCompileXIB
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib316540565#316540566#0(0"0(0#0#60"/Users/wanna_be_170/Documents/GattaiBlueTooth/MainWindow.xib8621336160#571"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/MainWindow.nib /Users/wanna_be_170/Documents/GattaiBlueTooth/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCopyPNGFile /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/hozonhaikei.png ../../Pictures/ちがぞう/hozonhaikei.png
+r0
+
+CCopyPNGFile /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/mascotforHaikei2.png ../../Pictures/ちがぞう/mascotforHaikei2.png
+r0
+
+CCopyPNGFile /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/smallMascotIcon.png ../../Pictures/ちがぞう/smallMascotIcon.png
+r0
+
+CCopyPNGFile /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/Orange.png ../../Pictures/ちがぞう/Orange.png
+s313524331.469311
+e313524333.401318
+r1
+xCopyPNGFile
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/Orange.png
+x../../Pictures/ちがぞう/Orange.png
+lSLF07#2@108"CopyPNGFile build/Debug-iphoneos/GattaiBlueTooth.app/Orange.png ../../Pictures/ちがぞう/Orange.png313524331#313524333#0(0"0(0#0#90"/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/ちがぞう/Orange.png8640343168#623"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/ちがぞう/Orange.png /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/Orange.png0#
+
+CCopyPNGFile /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/freeFrame2.png ../../Pictures/ちがぞう/freeFrame2.png
+s313519023.757066
+e313519027.448173
+r1
+xCopyPNGFile
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/freeFrame2.png
+x../../Pictures/ちがぞう/freeFrame2.png
+lSLF07#2@116"CopyPNGFile build/Debug-iphoneos/GattaiBlueTooth.app/freeFrame2.png ../../Pictures/ちがぞう/freeFrame2.png313519023#313519027#0(0"0(0#0#94"/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/ちがぞう/freeFrame2.png8635336960#631"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/ちがぞう/freeFrame2.png /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/freeFrame2.png0#
+
+CCopyPNGFile /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/hozonhaikei.png ../../Pictures/ちがぞう/hozonhaikei.png
+s313616754.553503
+e313616756.168811
+r1
+xCopyPNGFile
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/hozonhaikei.png
+x../../Pictures/ちがぞう/hozonhaikei.png
+lSLF07#2@118"CopyPNGFile build/Debug-iphoneos/GattaiBlueTooth.app/hozonhaikei.png ../../Pictures/ちがぞう/hozonhaikei.png313616754#313616756#0(0"0(0#0#95"/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/ちがぞう/hozonhaikei.png8614518048#633"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/ちがぞう/hozonhaikei.png /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/hozonhaikei.png0#
+
+CCopyPNGFile /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/mascotforHaikei2.png ../../Pictures/ちがぞう/mascotforHaikei2.png
+s313524333.401545
+e313524333.501312
+r1
+xCopyPNGFile
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/mascotforHaikei2.png
+x../../Pictures/ちがぞう/mascotforHaikei2.png
+lSLF07#2@128"CopyPNGFile build/Debug-iphoneos/GattaiBlueTooth.app/mascotforHaikei2.png ../../Pictures/ちがぞう/mascotforHaikei2.png313524333#313524333#0(0"0(0#0#100"/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/ちがぞう/mascotforHaikei2.png8635968832#643"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/ちがぞう/mascotforHaikei2.png /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/mascotforHaikei2.png0#
+
+CCopyPNGFile /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/smallMascotIcon.png ../../Pictures/ちがぞう/smallMascotIcon.png
+s313525375.299280
+e313525375.514141
+r1
+xCopyPNGFile
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/smallMascotIcon.png
+x../../Pictures/ちがぞう/smallMascotIcon.png
+lSLF07#2@126"CopyPNGFile build/Debug-iphoneos/GattaiBlueTooth.app/smallMascotIcon.png ../../Pictures/ちがぞう/smallMascotIcon.png313525375#313525375#0(0"0(0#0#99"/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/ちがぞう/smallMascotIcon.png3478521196689829888#641"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/ちがぞう/smallMascotIcon.png /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/smallMascotIcon.png0#
+
+CCpResource "build/Debug-iphoneos/GattaiBlueTooth.app/haikei (1).jpg" "../../Desktop/アプリ用/アイコン等決定版/haikei (1).jpg"
+s313514493.426419
+e313514493.839928
+r1
+xCpResource
+xbuild/Debug-iphoneos/GattaiBlueTooth.app/haikei (1).jpg
+x../../Desktop/アプリ用/アイコン等決定版/haikei (1).jpg
+lSLF07#2@74"Copy ../../Desktop/アプリ用/アイコン等決定版/haikei (1).jpg313514493#313514493#0(0"0(0#0#115"/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Desktop/アプリ用/アイコン等決定版/haikei (1).jpg8617572256#530"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Desktop/アプリ用/アイコン等決定版/haikei (1).jpg" /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app0#
+
+CCpResource "build/Debug-iphoneos/GattaiBlueTooth.app/haikei (1).jpg" "../../Pictures/v.metronome Images/アイコン等決定版/haikei (1).jpg"
+s313519274.555035
+e313519274.622369
+r1
+xCpResource
+xbuild/Debug-iphoneos/GattaiBlueTooth.app/haikei (1).jpg
+x../../Pictures/v.metronome Images/アイコン等決定版/haikei (1).jpg
+lSLF07#2@78"Copy ../../Pictures/v.metronome Images/アイコン等決定版/haikei (1).jpg313519274#313519274#0(0"0(0#0#119"/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/v.metronome Images/アイコン等決定版/haikei (1).jpg8640313056#534"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/v.metronome Images/アイコン等決定版/haikei (1).jpg" /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app0#
+
+CCpResource build/Debug-iphoneos/GattaiBlueTooth.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+s316535119.054220
+e316535119.080038
+r1
+xCpResource
+xbuild/Debug-iphoneos/GattaiBlueTooth.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist316535119#316535119#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist3698387016064395264#502"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app0#
+
+CCpResource build/Debug-iphoneos/GattaiBlueTooth.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s316540565.682101
+e316540565.777618
+r1
+xCpResource
+xbuild/Debug-iphoneos/GattaiBlueTooth.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist316540565#316540565#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist8622022464#502"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app0#
+
+CCpResource build/Debug-iphoneos/GattaiBlueTooth.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/GattaiBlueTooth.app/Salary-manx.jpg ../../Pictures/Keynote用/Salary-manx.jpg
+s308672972.642330
+e308672972.704027
+r1
+xCpResource
+xbuild/Debug-iphoneos/GattaiBlueTooth.app/Salary-manx.jpg
+x../../Pictures/Keynote用/Salary-manx.jpg
+lSLF07#2@46"Copy ../../Pictures/Keynote用/Salary-manx.jpg308672972#308672972#0(0"0(0#0#87"/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/Keynote用/Salary-manx.jpg8623473056#500"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/Keynote用/Salary-manx.jpg /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app0#
+
+CCpResource build/Debug-iphoneos/GattaiBlueTooth.app/apliTest1.jpeg ../../Pictures/ちがぞう/apliTest1.jpeg
+r0
+
+CCpResource build/Debug-iphoneos/GattaiBlueTooth.app/apliTest2.jpeg ../../Pictures/ちがぞう/apliTest2.jpeg
+s313516912.848236
+e313516912.888816
+r1
+xCpResource
+xbuild/Debug-iphoneos/GattaiBlueTooth.app/apliTest2.jpeg
+x../../Pictures/ちがぞう/apliTest2.jpeg
+lSLF07#2@53"Copy ../../Pictures/ちがぞう/apliTest2.jpeg313516912#313516912#0(0"0(0#0#94"/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/ちがぞう/apliTest2.jpeg8617727328#507"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/ちがぞう/apliTest2.jpeg /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app0#
+
+CCpResource build/Debug-iphoneos/GattaiBlueTooth.app/mascot.jpg ../../Pictures/ちがぞう/mascot.jpg
+s313526328.691849
+e313526328.716569
+r1
+xCpResource
+xbuild/Debug-iphoneos/GattaiBlueTooth.app/mascot.jpg
+x../../Pictures/ちがぞう/mascot.jpg
+lSLF07#2@49"Copy ../../Pictures/ちがぞう/mascot.jpg313526328#313526329#0(0"0(0#0#90"/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/ちがぞう/mascot.jpg8651001312#503"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/ちがぞう/mascot.jpg /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app0#
+
+CCpResource build/Debug-iphoneos/GattaiBlueTooth.app/mascotforHaikei.jpg ../../Pictures/ちがぞう/mascotforHaikei.jpg
+s313524331.468542
+e313524332.280070
+r1
+xCpResource
+xbuild/Debug-iphoneos/GattaiBlueTooth.app/mascotforHaikei.jpg
+x../../Pictures/ちがぞう/mascotforHaikei.jpg
+lSLF07#2@58"Copy ../../Pictures/ちがぞう/mascotforHaikei.jpg313524331#313524332#0(0"0(0#0#99"/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/ちがぞう/mascotforHaikei.jpg8638831456#512"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/ちがぞう/mascotforHaikei.jpg /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app0#
+
+CCpResource build/Debug-iphoneos/GattaiBlueTooth.app/道場.jpg ../../Pictures/Keynote用/道場.jpg
+s308668445.722402
+e308668445.839738
+r1
+xCpResource
+xbuild/Debug-iphoneos/GattaiBlueTooth.app/道場.jpg
+x../../Pictures/Keynote用/道場.jpg
+lSLF07#2@41"Copy ../../Pictures/Keynote用/道場.jpg308668445#308668445#0(0"0(0#0#82"/Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/Keynote用/道場.jpg8613247488#495"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/wanna_be_170/Documents/GattaiBlueTooth/../../Pictures/Keynote用/道場.jpg /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app0#
+
+CCreateUniversalBinary /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueTooth normal "armv6 armv7"
+s318692382.461866
+e318692382.465446
+r1
+xCreateUniversalBinary
+x/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueTooth
+xnormal
+xarmv6 armv7
+lSLF07#2@99"CreateUniversalBinary build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueTooth normal "armv6 armv7"318692382#318692382#0(0"0(0#0#55"/Users/wanna_be_170/Desktop/GattaiBlueTooth/armv6 armv78641715840#602"    cd /Users/wanna_be_170/Desktop/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueTooth /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueTooth -output /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueTooth0#
+
+CCreateUniversalBinary /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueTooth normal "armv6 armv7"
+s316540567.742332
+e316540567.781835
+r1
+xCreateUniversalBinary
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueTooth
+xnormal
+xarmv6 armv7
+lSLF07#2@99"CreateUniversalBinary build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueTooth normal "armv6 armv7"316540567#316540567#0(0"0(0#0#57"/Users/wanna_be_170/Documents/GattaiBlueTooth/armv6 armv78617265632#610"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueTooth /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueTooth -output /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueTooth0#
+
+CGenerateDSYMFile /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app.dSYM /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueTooth
+s318692382.465539
+e318692382.634617
+r1
+xGenerateDSYMFile
+x/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app.dSYM
+x/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueTooth
+lSLF07#2@119"GenerateDSYMFile build/Debug-iphoneos/GattaiBlueTooth.app.dSYM build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueTooth318692382#318692382#0(0"0(0#0#100"/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueTooth8641608032#401"    cd /Users/wanna_be_170/Desktop/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueTooth -o /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app.dSYM0#
+
+CGenerateDSYMFile /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app.dSYM /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueTooth
+s316540567.781963
+e316540567.873413
+r1
+xGenerateDSYMFile
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app.dSYM
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueTooth
+lSLF07#2@119"GenerateDSYMFile build/Debug-iphoneos/GattaiBlueTooth.app.dSYM build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueTooth316540567#316540567#0(0"0(0#0#102"/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueTooth8619093504#407"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/GattaiBlueTooth -o /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app.dSYM0#
+
+CLd /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueTooth normal armv6
+s318692382.384453
+e318692382.461753
+r1
+xLd
+x/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueTooth
+xnormal
+xarmv6
+lSLF07#2@150"Link /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueTooth318692382#318692382#0(0"0(0#0#0"8636972384#999"    cd /Users/wanna_be_170/Desktop/GattaiBlueTooth    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos -F/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos -filelist /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueTooth.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework GameKit -framework AVFoundation -framework AudioToolbox -o /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueTooth0#
+
+CLd /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueTooth normal armv7
+s318692382.352643
+e318692382.397865
+r1
+xLd
+x/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueTooth
+xnormal
+xarmv7
+lSLF07#2@150"Link /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueTooth318692382#318692382#0(0"0(0#0#0"8641037216#999"    cd /Users/wanna_be_170/Desktop/GattaiBlueTooth    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos -F/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos -filelist /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueTooth.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework GameKit -framework AVFoundation -framework AudioToolbox -o /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueTooth0#
+
+CLd /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueTooth normal armv6
+s316540567.294787
+e316540567.409503
+r1
+xLd
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueTooth
+xnormal
+xarmv6
+lSLF07#2@152"Link /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueTooth316540567#316540567#0(0"0(0#0#0"8619778560#1009"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos -F/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos -filelist /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueTooth.LinkFileList -dead_strip -miphoneos-version-min=4.1 -framework Foundation -framework UIKit -framework CoreGraphics -framework GameKit -framework AVFoundation -framework AudioToolbox -o /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv6/GattaiBlueTooth0#
+
+CLd /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueTooth normal armv7
+s316540567.618347
+e316540567.742197
+r1
+xLd
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueTooth
+xnormal
+xarmv7
+lSLF07#2@152"Link /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueTooth316540567#316540567#0(0"0(0#0#0"8619175680#1009"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos -F/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos -filelist /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueTooth.LinkFileList -dead_strip -miphoneos-version-min=4.1 -framework Foundation -framework UIKit -framework CoreGraphics -framework GameKit -framework AVFoundation -framework AudioToolbox -o /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/Objects-normal/armv7/GattaiBlueTooth0#
+
+CProcessInfoPlistFile /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/Info.plist GattaiBlueTooth-Info.plist
+s317285830.296442
+e317285830.316858
+r1
+xProcessInfoPlistFile
+x/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/Info.plist
+xGattaiBlueTooth-Info.plist
+lSLF07#2@34"Process GattaiBlueTooth-Info.plist317285830#317285830#0(0"0(0#0#70"/Users/wanna_be_170/Desktop/GattaiBlueTooth/GattaiBlueTooth-Info.plist8643763136#614"    cd /Users/wanna_be_170/Desktop/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GattaiBlueTooth-Info.plist -genpkginfo /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/ResourceRules.plist -o /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/Info.plist GattaiBlueTooth-Info.plist
+s316540565.683443
+e316540565.778034
+r1
+xProcessInfoPlistFile
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/Info.plist
+xGattaiBlueTooth-Info.plist
+lSLF07#2@34"Process GattaiBlueTooth-Info.plist316540565#316540565#0(0"0(0#0#72"/Users/wanna_be_170/Documents/GattaiBlueTooth/GattaiBlueTooth-Info.plist8621710848#622"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GattaiBlueTooth-Info.plist -genpkginfo /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/ResourceRules.plist -o /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/Info.plist0#
+
+CProcessPCH /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-bpdvnukjtcrcmaaqwyslbkxbnhsd/GattaiBlueTooth_Prefix.pch.gch GattaiBlueTooth_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s317285830.339258
+e317285832.828235
+r1
+xProcessPCH
+x/var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-bpdvnukjtcrcmaaqwyslbkxbnhsd/GattaiBlueTooth_Prefix.pch.gch
+xGattaiBlueTooth_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile GattaiBlueTooth_Prefix.pch317285830#317285832#0(0"0(0#0#70"/Users/wanna_be_170/Desktop/GattaiBlueTooth/GattaiBlueTooth_Prefix.pch8613515232#1824"    cd /Users/wanna_be_170/Desktop/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv7 -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -c /Users/wanna_be_170/Desktop/GattaiBlueTooth/GattaiBlueTooth_Prefix.pch -o /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-bpdvnukjtcrcmaaqwyslbkxbnhsd/GattaiBlueTooth_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-clarwudoumwlkifipptyltwjcvxk/GattaiBlueTooth_Prefix.pch.gch GattaiBlueTooth_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317285830.317236
+e317285832.681800
+r1
+xProcessPCH
+x/var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-clarwudoumwlkifipptyltwjcvxk/GattaiBlueTooth_Prefix.pch.gch
+xGattaiBlueTooth_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile GattaiBlueTooth_Prefix.pch317285830#317285832#0(0"0(0#0#70"/Users/wanna_be_170/Desktop/GattaiBlueTooth/GattaiBlueTooth_Prefix.pch8616226304#1824"    cd /Users/wanna_be_170/Desktop/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv6 -I/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -c /Users/wanna_be_170/Desktop/GattaiBlueTooth/GattaiBlueTooth_Prefix.pch -o /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-clarwudoumwlkifipptyltwjcvxk/GattaiBlueTooth_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-cwwibpxsfaakjubmrektdkplywxz/GattaiBlueTooth_Prefix.pch.gch GattaiBlueTooth_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308480013.358563
+e308480014.748398
+r1
+xProcessPCH
+x/var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-cwwibpxsfaakjubmrektdkplywxz/GattaiBlueTooth_Prefix.pch.gch
+xGattaiBlueTooth_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile GattaiBlueTooth_Prefix.pch308480013#308480014#0(0"0(0#0#72"/Users/wanna_be_170/Documents/GattaiBlueTooth/GattaiBlueTooth_Prefix.pch8603530112#1844"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv7 -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -c /Users/wanna_be_170/Documents/GattaiBlueTooth/GattaiBlueTooth_Prefix.pch -o /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-cwwibpxsfaakjubmrektdkplywxz/GattaiBlueTooth_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-dutuviujixsoqqhfpylteoupuhsr/GattaiBlueTooth_Prefix.pch.gch GattaiBlueTooth_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308480013.357578
+e308480014.812275
+r1
+xProcessPCH
+x/var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-dutuviujixsoqqhfpylteoupuhsr/GattaiBlueTooth_Prefix.pch.gch
+xGattaiBlueTooth_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile GattaiBlueTooth_Prefix.pch308480013#308480014#0(0"0(0#0#72"/Users/wanna_be_170/Documents/GattaiBlueTooth/GattaiBlueTooth_Prefix.pch8629660832#1844"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv6 -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -c /Users/wanna_be_170/Documents/GattaiBlueTooth/GattaiBlueTooth_Prefix.pch -o /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-dutuviujixsoqqhfpylteoupuhsr/GattaiBlueTooth_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-fjdzjwwnlthzgtdlinbflvseuzee/GattaiBlueTooth_Prefix.pch.gch GattaiBlueTooth_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308496521.175214
+e308496522.376110
+r1
+xProcessPCH
+x/var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-fjdzjwwnlthzgtdlinbflvseuzee/GattaiBlueTooth_Prefix.pch.gch
+xGattaiBlueTooth_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile GattaiBlueTooth_Prefix.pch308496521#308496522#0(0"0(0#0#72"/Users/wanna_be_170/Documents/GattaiBlueTooth/GattaiBlueTooth_Prefix.pch8613074240#1844"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv7 -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -c /Users/wanna_be_170/Documents/GattaiBlueTooth/GattaiBlueTooth_Prefix.pch -o /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-fjdzjwwnlthzgtdlinbflvseuzee/GattaiBlueTooth_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-gduagfwlpcnglvfaatworokaofdc/GattaiBlueTooth_Prefix.pch.gch GattaiBlueTooth_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308496521.174050
+e308496522.266466
+r1
+xProcessPCH
+x/var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-gduagfwlpcnglvfaatworokaofdc/GattaiBlueTooth_Prefix.pch.gch
+xGattaiBlueTooth_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile GattaiBlueTooth_Prefix.pch308496521#308496522#0(0"0(0#0#72"/Users/wanna_be_170/Documents/GattaiBlueTooth/GattaiBlueTooth_Prefix.pch8613284576#1844"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-generated-files.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-own-target-headers.hmap -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-all-target-headers.hmap -iquote /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth-project-headers.hmap -F/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/include -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources/armv6 -I/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/DerivedSources -c /Users/wanna_be_170/Documents/GattaiBlueTooth/GattaiBlueTooth_Prefix.pch -o /var/folders/Ku/Kul9h9otEGSA1UfxxBhNck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GattaiBlueTooth_Prefix-gduagfwlpcnglvfaatworokaofdc/GattaiBlueTooth_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/wanna_be_170/Library/MobileDevice/Provisioning Profiles/0874F8D1-3D5D-4392-A140-944D43608477.mobileprovision" /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision
+s308480015.424190
+e308480015.492781
+r1
+xProcessProductPackaging
+x/Users/wanna_be_170/Library/MobileDevice/Provisioning Profiles/0874F8D1-3D5D-4392-A140-944D43608477.mobileprovision
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision
+lSLF07#2@207"ProcessProductPackaging "/Users/wanna_be_170/Library/MobileDevice/Provisioning Profiles/0874F8D1-3D5D-4392-A140-944D43608477.mobileprovision" build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision308480015#308480015#0(0"0(0#0#111"/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision8628866688#452"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/wanna_be_170/Library/MobileDevice/Provisioning Profiles/0874F8D1-3D5D-4392-A140-944D43608477.mobileprovision" -o /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/wanna_be_170/Library/MobileDevice/Provisioning Profiles/34DA3C27-E49E-46C5-9FF6-9168AE54A33C.mobileprovision" /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision
+s310901275.378264
+e310901275.440749
+r1
+xProcessProductPackaging
+x/Users/wanna_be_170/Library/MobileDevice/Provisioning Profiles/34DA3C27-E49E-46C5-9FF6-9168AE54A33C.mobileprovision
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision
+lSLF07#2@207"ProcessProductPackaging "/Users/wanna_be_170/Library/MobileDevice/Provisioning Profiles/34DA3C27-E49E-46C5-9FF6-9168AE54A33C.mobileprovision" build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision310901275#310901275#0(0"0(0#0#111"/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision8615094144#452"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/wanna_be_170/Library/MobileDevice/Provisioning Profiles/34DA3C27-E49E-46C5-9FF6-9168AE54A33C.mobileprovision" -o /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/wanna_be_170/Library/MobileDevice/Provisioning Profiles/5B6D3A59-F711-46BC-9DB3-F7633B8B7B5A.mobileprovision" /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision
+r0
+
+CProcessProductPackaging "/Users/wanna_be_170/Library/MobileDevice/Provisioning Profiles/5B6D3A59-F711-46BC-9DB3-F7633B8B7B5A.mobileprovision" /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision
+s310984657.146800
+e310984657.160126
+r1
+xProcessProductPackaging
+x/Users/wanna_be_170/Library/MobileDevice/Provisioning Profiles/5B6D3A59-F711-46BC-9DB3-F7633B8B7B5A.mobileprovision
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision
+lSLF07#2@207"ProcessProductPackaging "/Users/wanna_be_170/Library/MobileDevice/Provisioning Profiles/5B6D3A59-F711-46BC-9DB3-F7633B8B7B5A.mobileprovision" build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision310984657#310984657#0(0"0(0#0#111"/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision8615037952#452"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/wanna_be_170/Library/MobileDevice/Provisioning Profiles/5B6D3A59-F711-46BC-9DB3-F7633B8B7B5A.mobileprovision" -o /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/wanna_be_170/Library/MobileDevice/Provisioning Profiles/839D31E9-0302-4DE3-89F5-E8937F6DB24D.mobileprovision" /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision
+s318848822.832423
+e318848822.858834
+r1
+xProcessProductPackaging
+x/Users/wanna_be_170/Library/MobileDevice/Provisioning Profiles/839D31E9-0302-4DE3-89F5-E8937F6DB24D.mobileprovision
+x/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision
+lSLF07#2@207"ProcessProductPackaging "/Users/wanna_be_170/Library/MobileDevice/Provisioning Profiles/839D31E9-0302-4DE3-89F5-E8937F6DB24D.mobileprovision" build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision318848822#318848822#0(0"0(0#0#109"/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision12948278432039012#448"    cd /Users/wanna_be_170/Desktop/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/wanna_be_170/Library/MobileDevice/Provisioning Profiles/839D31E9-0302-4DE3-89F5-E8937F6DB24D.mobileprovision" -o /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/wanna_be_170/Library/MobileDevice/Provisioning Profiles/A097588A-E72C-4FEC-9FCB-E533618ADF20.mobileprovision" /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision
+r0
+
+CProcessProductPackaging "/Users/wanna_be_170/Library/MobileDevice/Provisioning Profiles/A097588A-E72C-4FEC-9FCB-E533618ADF20.mobileprovision" /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app/embedded.mobileprovision
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth.xcent
+s316535121.227934
+e316535121.262474
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth.xcent
+lSLF07#2@199"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth.xcent316535121#316535121#0(0"0(0#0#132"/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth.xcent8616955584#470"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth.xcent0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth.xcent
+s316540567.885633
+e316540567.907284
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth.xcent
+lSLF07#2@199"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth.xcent316540567#316540567#0(0"0(0#0#132"/Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth.xcent8620447872#470"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/wanna_be_170/Documents/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth.xcent0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth.xcent
+s317285834.897522
+e317285834.921098
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth.xcent
+lSLF07#2@199"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth.xcent317285834#317285834#0(0"0(0#0#130"/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth.xcent8599928608#466"    cd /Users/wanna_be_170/Desktop/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/GattaiBlueTooth.build/Debug-iphoneos/GattaiBlueTooth.build/GattaiBlueTooth.xcent0#
+
+CTouch /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app
+s318848822.859196
+e318848822.880163
+r1
+xTouch
+x/Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app
+lSLF07#2@90"Touch /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app318848822#318848822#0(0"0(0#0#0"8609475296#282"    cd /Users/wanna_be_170/Desktop/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/wanna_be_170/Desktop/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app0#
+
+CTouch /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app
+s316540567.873643
+e316540567.885429
+r1
+xTouch
+x/Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app
+lSLF07#2@92"Touch /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app316540567#316540567#0(0"0(0#0#0"8620884512#286"    cd /Users/wanna_be_170/Documents/GattaiBlueTooth    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/wanna_be_170/Documents/GattaiBlueTooth/build/Debug-iphoneos/GattaiBlueTooth.app0#
+

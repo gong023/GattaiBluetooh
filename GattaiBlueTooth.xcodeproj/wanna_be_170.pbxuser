@@ -1,0 +1,300 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* GattaiBlueToothAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {827, 418}}";
+			sepNavSelRange = "{817, 0}";
+			sepNavVisRange = "{0, 823}";
+			sepNavWindowFrame = "{{3, 57}, {1277, 716}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* GattaiBlueToothAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1546}}";
+			sepNavSelRange = "{3231, 0}";
+			sepNavVisRange = "{2112, 1223}";
+			sepNavWindowFrame = "{{3, 57}, {1277, 716}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* GattaiBlueTooth */ = {
+		activeExec = 0;
+		executables = (
+			FBA805D51263077F002889BA /* GattaiBlueTooth */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* GattaiBlueToothViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {827, 758}}";
+			sepNavSelRange = "{1565, 0}";
+			sepNavVisRange = "{321, 1193}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* GattaiBlueToothViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1055, 8951}}";
+			sepNavSelRange = "{10458, 412}";
+			sepNavVisRange = "{10056, 965}";
+			sepNavWindowFrame = "{{10, 46}, {1277, 716}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FBA805D51263077F002889BA /* GattaiBlueTooth */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* GattaiBlueTooth */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* GattaiBlueTooth */,
+		);
+		breakpoints = (
+			FB82E7AC12AF74CD00472901 /* GattaiBlueToothViewController.m:469 */,
+		);
+		codeSenseManager = FBA805E512630799002889BA /* Code sense */;
+		executables = (
+			FBA805D51263077F002889BA /* GattaiBlueTooth */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					649,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					609,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 324016629;
+			PBXWorkspaceStateSaveDate = 324016629;
+		};
+		perUserProjectItems = {
+			FB1E6D8112FEDC2C00C49AC0 /* PBXTextBookmark */ = FB1E6D8112FEDC2C00C49AC0 /* PBXTextBookmark */;
+			FB9F40BD135032D4004083E8 /* PBXTextBookmark */ = FB9F40BD135032D4004083E8 /* PBXTextBookmark */;
+			FB9F40BE135032D4004083E8 /* PBXTextBookmark */ = FB9F40BE135032D4004083E8 /* PBXTextBookmark */;
+			FB9F40BF135032D4004083E8 /* PBXTextBookmark */ = FB9F40BF135032D4004083E8 /* PBXTextBookmark */;
+			FBA3700C133DB0ED00C0698E /* PBXTextBookmark */ = FBA3700C133DB0ED00C0698E /* PBXTextBookmark */;
+			FBBEF2831307D4290004F012 /* PBXBookmark */ = FBBEF2831307D4290004F012 /* PBXBookmark */;
+			FBBEF2841307D4290004F012 /* PBXBookmark */ = FBBEF2841307D4290004F012 /* PBXBookmark */;
+			FBBEF2851307D4290004F012 /* PBXBookmark */ = FBBEF2851307D4290004F012 /* PBXBookmark */;
+			FBEEFC2312F34FE500EF6962 /* PlistBookmark */ = FBEEFC2312F34FE500EF6962 /* PlistBookmark */;
+			FBFB3715130D9986005DB960 /* PBXBookmark */ = FBFB3715130D9986005DB960 /* PBXBookmark */;
+			FBFB3716130D9986005DB960 /* PBXTextBookmark */ = FBFB3716130D9986005DB960 /* PBXTextBookmark */;
+			FBFB3718130D9986005DB960 /* PBXTextBookmark */ = FBFB3718130D9986005DB960 /* PBXTextBookmark */;
+		};
+		sourceControlManager = FBA805E412630799002889BA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107310486CEB800E47090 /* GattaiBlueTooth-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{313, 201}, {698, 528}}";
+		};
+	};
+	FB1E6D8112FEDC2C00C49AC0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FB840D7612ACE2E300EE932E /* FlipsideViewController.m */;
+		name = "FlipsideViewController.m: 42";
+		rLen = 0;
+		rLoc = 1269;
+		rType = 0;
+		vrLen = 1007;
+		vrLoc = 1311;
+	};
+	FB82E7AC12AF74CD00472901 /* GattaiBlueToothViewController.m:469 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GattaiBlueToothViewController.m */;
+		functionName = "-actionSheet:clickedButtonAtIndex:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 469;
+		modificationTime = 322813585.009199;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	FB840D7512ACE2E300EE932E /* FlipsideViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {827, 412}}";
+			sepNavSelRange = "{155, 0}";
+			sepNavVisRange = "{0, 675}";
+		};
+	};
+	FB840D7612ACE2E300EE932E /* FlipsideViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1442}}";
+			sepNavSelRange = "{1269, 0}";
+			sepNavVisRange = "{1311, 1007}";
+		};
+	};
+	FB9F40BD135032D4004083E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* GattaiBlueToothViewController.h */;
+		name = "GattaiBlueToothViewController.h: 56";
+		rLen = 0;
+		rLoc = 1565;
+		rType = 0;
+		vrLen = 1193;
+		vrLoc = 321;
+	};
+	FB9F40BE135032D4004083E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GattaiBlueToothViewController.m */;
+		name = "GattaiBlueToothViewController.m: 472";
+		rLen = 772;
+		rLoc = 13316;
+		rType = 0;
+		vrLen = 1178;
+		vrLoc = 10433;
+	};
+	FB9F40BF135032D4004083E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GattaiBlueToothViewController.m */;
+		name = "GattaiBlueToothViewController.m: 362";
+		rLen = 412;
+		rLoc = 10458;
+		rType = 0;
+		vrLen = 965;
+		vrLoc = 10056;
+	};
+	FBA3700C133DB0ED00C0698E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FB840D7512ACE2E300EE932E /* FlipsideViewController.h */;
+		name = "FlipsideViewController.h: 9";
+		rLen = 0;
+		rLoc = 155;
+		rType = 0;
+		vrLen = 675;
+		vrLoc = 0;
+	};
+	FBA805D51263077F002889BA /* GattaiBlueTooth */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GattaiBlueTooth;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	FBA805E412630799002889BA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FBA805E512630799002889BA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FBBEF2831307D4290004F012 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FBBEF2781307D3EB0004F012 /* mascot.jpg */;
+	};
+	FBBEF2841307D4290004F012 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FBBEF27A1307D3F70004F012 /* mascotforHaikei2.png */;
+	};
+	FBBEF2851307D4290004F012 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FBBEF27C1307D4010004F012 /* smallMascotIcon.png */;
+	};
+	FBEEFC2312F34FE500EF6962 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* GattaiBlueTooth-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/wanna_be_170/Desktop/GattaiBlueTooth/GattaiBlueTooth-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	FBFB3715130D9986005DB960 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FBBEF27E1307D4090004F012 /* hozonhaikei.png */;
+	};
+	FBFB3716130D9986005DB960 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GattaiBlueToothAppDelegate.m */;
+		name = "GattaiBlueToothAppDelegate.m: 48";
+		rLen = 0;
+		rLoc = 1491;
+		rType = 0;
+		vrLen = 765;
+		vrLoc = 0;
+	};
+	FBFB3718130D9986005DB960 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* GattaiBlueToothAppDelegate.h */;
+		name = "GattaiBlueToothAppDelegate.h: 27";
+		rLen = 0;
+		rLoc = 817;
+		rType = 0;
+		vrLen = 823;
+		vrLoc = 0;
+	};
+}

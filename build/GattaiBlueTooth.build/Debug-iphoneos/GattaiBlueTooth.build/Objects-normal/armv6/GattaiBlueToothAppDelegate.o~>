@@ -1,0 +1,29 @@
+/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m: In function '-[GattaiBlueToothAppDelegate applicationDidEnterBackground:]':
+/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m:44: error: 'backgroundTask' undeclared (first use in this function)
+/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m:44: error: (Each undeclared identifier is reported only once
+/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m:44: error: for each function it appears in.)
+/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m: In function '__-[GattaiBlueToothAppDelegate applicationDidEnterBackground:]_block_invoke_1':
+/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m:46: warning: 'UIApplication' may not respond to '-endBackgroundTask:'
+/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m:46: warning: (Messages without a matching method signature
+/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m:46: warning: will be assumed to return 'id' and accept
+/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m:46: warning: '...' as arguments.)
+/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m: In function '-[GattaiBlueToothAppDelegate applicationDidEnterBackground:]':
+/Users/wanna_be_170/Documents/GattaiBlueTooth/Classes/GattaiBlueToothAppDelegate.m:47: warning: 'UIApplication' may not respond to '-beginBackgroundTaskWithExpirationHandler:'
+{standard input}:130:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L7"
+{standard input}:130:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+{standard input}:129:non-relocatable subtraction expression, "L_OBJC_IVAR_$_GattaiBlueToothAppDelegate.window$non_lazy_ptr" minus "L6"
+{standard input}:129:symbol: "L_OBJC_IVAR_$_GattaiBlueToothAppDelegate.window$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:128:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L5"
+{standard input}:128:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+{standard input}:127:non-relocatable subtraction expression, "L_OBJC_IVAR_$_GattaiBlueToothAppDelegate.viewController$non_lazy_ptr" minus "L4"
+{standard input}:127:symbol: "L_OBJC_IVAR_$_GattaiBlueToothAppDelegate.viewController$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:126:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L3"
+{standard input}:126:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+{standard input}:125:non-relocatable subtraction expression, "L_OBJC_IVAR_$_GattaiBlueToothAppDelegate.window$non_lazy_ptr" minus "L2"
+{standard input}:125:symbol: "L_OBJC_IVAR_$_GattaiBlueToothAppDelegate.window$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:unknown:Undefined local symbol L_objc_msgSend$stub
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_GattaiBlueToothAppDelegate.window$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_GattaiBlueToothAppDelegate.viewController$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1

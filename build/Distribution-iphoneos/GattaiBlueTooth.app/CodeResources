@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>FlipsideViewController.nib</key>
+		<data>
+		btNoUbqWw6S7jUSx5mUhO7uEehI=
+		</data>
+		<key>GattaiBlueToothViewController.nib</key>
+		<data>
+		K/UeyB88jcl9tg2Q4xBXf/qHKOE=
+		</data>
+		<key>MainWindow.nib</key>
+		<data>
+		YlArgK4IkLxTTPemt1dL1ER50Is=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		l37LAdqAlATjzojFcgpKIOUYa6g=
+		</data>
+		<key>hozonhaikei.png</key>
+		<data>
+		c3zV2/qR6VxrLGXlZAqiSwFeDWk=
+		</data>
+		<key>mascot.jpg</key>
+		<data>
+		xp0gGPAVzp+2imfbHxtDAF7sG/g=
+		</data>
+		<key>mascotforHaikei2.png</key>
+		<data>
+		EnCwJN74Qp7dt55oN3fUVwMhD6o=
+		</data>
+		<key>smallMascotIcon.png</key>
+		<data>
+		krrFhEp9IuX7gIA89TBNrzQrpjg=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>
